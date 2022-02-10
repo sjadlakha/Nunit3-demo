@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{AE5B42EA-B48E-40F6-9B3D-39C87ECB0150}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Loans.Tests/LoanRepaymentCalculatorShould.cs">
+    <Files>
+      <File FileName="Loans.Tests/LoanRepaymentCalculatorShould.cs" Line="78" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Loans-NUnitDemo" expanded="True">
+            <Node name="Loans.Tests" expanded="True">
+              <Node name="LoanRepaymentCalculatorShould.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Loans.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

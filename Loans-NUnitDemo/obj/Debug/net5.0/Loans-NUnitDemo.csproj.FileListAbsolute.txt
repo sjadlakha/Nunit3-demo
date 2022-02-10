@@ -1,0 +1,12 @@
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/Loans-NUnitDemo/Loans-NUnitDemo/bin/Debug/net5.0/Loans-NUnitDemo.deps.json
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/Loans-NUnitDemo/Loans-NUnitDemo/bin/Debug/net5.0/Loans-NUnitDemo.dll
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/Loans-NUnitDemo/Loans-NUnitDemo/bin/Debug/net5.0/ref/Loans-NUnitDemo.dll
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/Loans-NUnitDemo/Loans-NUnitDemo/bin/Debug/net5.0/Loans-NUnitDemo.pdb
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/Loans-NUnitDemo/Loans-NUnitDemo/obj/Debug/net5.0/Loans-NUnitDemo.csproj.AssemblyReference.cache
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/Loans-NUnitDemo/Loans-NUnitDemo/obj/Debug/net5.0/Loans-NUnitDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/Loans-NUnitDemo/Loans-NUnitDemo/obj/Debug/net5.0/Loans-NUnitDemo.AssemblyInfoInputs.cache
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/Loans-NUnitDemo/Loans-NUnitDemo/obj/Debug/net5.0/Loans-NUnitDemo.AssemblyInfo.cs
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/Loans-NUnitDemo/Loans-NUnitDemo/obj/Debug/net5.0/Loans-NUnitDemo.csproj.CoreCompileInputs.cache
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/Loans-NUnitDemo/Loans-NUnitDemo/obj/Debug/net5.0/Loans-NUnitDemo.dll
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/Loans-NUnitDemo/Loans-NUnitDemo/obj/Debug/net5.0/ref/Loans-NUnitDemo.dll
+/Users/sahajadlakha/Documents/DEV_ZONE/VisualStudioProjects/Loans-NUnitDemo/Loans-NUnitDemo/obj/Debug/net5.0/Loans-NUnitDemo.pdb
